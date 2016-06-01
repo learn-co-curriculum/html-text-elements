@@ -4,7 +4,7 @@
 
 In this lesson we will do a quick review of HTML text elements from the video lecture in the prior lesson.
 
-## What's Covered in This Lesson 
+## What's Covered in This Lesson
 
 1. Review Headings
 2. Review Paragraphs
@@ -28,7 +28,7 @@ We are given a range of tags to define the look and importance of our typography
 <h6>Smallest Heading</h6>
 ```
 
-Headings allow us to create larger and smaller text and to suggest more importance to certain content than others. `<h1>` is the largest of the headings and also carries the most importance for search engines. `<h2>` to `<h6>` the headings get progressively smaller and hold less importance.
+Headings allow us to create larger and smaller text, establishing a hierarchy for our content. `<h1>` is the largest of the headings and also carries the most importance for search engines. `<h2>` to `<h6>` the headings get progressively smaller and hold less importance.
 
 #### Paragraphs
 
