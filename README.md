@@ -6,12 +6,12 @@ In this lesson we will do a quick review of HTML text elements from the video le
 
 ## What's Covered in This Lesson
 
-1. Review Headings
-2. Review Paragraphs
-3. Review Line breaks
-4. Review Horizontal rule (lines)
-5. Review Preformatted
-6. Review Bold and Italic Styles
+1. Headings
+2. Paragraphs
+3. Line breaks
+4. Horizontal rule (lines)
+5. Preformatted
+6. Bold and Italic Styles
 
 ### Typography
 
@@ -80,7 +80,7 @@ Emphasized text `<em>` stands out as italic text for situations when we want to 
 <strong>This text is bold.</strong>
 ```
 
-Similiar to emphasized we can make text stronger using `<strong>` which makes the text bold.
+Similar to emphasized we can make text stronger using `<strong>` which makes the text bold.
 
 ## Summary
 
